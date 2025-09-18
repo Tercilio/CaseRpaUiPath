@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Transfira dados de PDF para EXCEL. PDF para XLS online",
+  "Type": "App",
+  "Id": "fkWaGIfGQkmcuLSG3W6dQA",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/fkWaGIfGQkmcuLSG3W6dQA",
+  "Created": "2025-09-14T02:22:56.4312173Z",
+  "Updated": "2025-09-14T02:22:56.4312173Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

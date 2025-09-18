@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7J9hx4NnV0eVtSH-flHcJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pt/download/89mdnvw5d5zrgkj1mc7txflyk6xbrhh2AyAn8v68kmykmzxhA973sq3dppl8vAj5d5yh7nb3gpjp8c7zwznsb6xsbfxf1x90nmfm1ggl6Abtyb470ytx48yd2tbk7c62kthyv0x0rbxs4j5d9gnj7y6lxklAgsmAd3Ankslk61mvrs5h914q/36o" CVScreenId="bd62ae0f-852c-4ea0-949d-18e74aba01f6" CvElementArea="750, 365, 417, 108" CvTextArea="880, 405, 206, 30" CvTextArgument="Baixe O EXCEL" CvType="Button" DesignTimeRectangle="753, 370, 413, 100" ElementType="Text" FullSelectorArgument="&lt;webctrl id='pickfiles' tag='A' /&gt;" Guid="93d7758c-b54c-44f2-a4c5-13c50571cc69" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Baixar o arquivo | iLovePDF' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d203ca81b84aa694d81c8fbb1bb044d1.png" xmlns="">0ctthKdiuOk6qzabaekirfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

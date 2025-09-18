@@ -1,0 +1,6 @@
+{
+  "Name": "MainSalesReportAutomation",
+  "ProjectType": "Process",
+  "Description": "Automatização do Relatório de Vendas para Nubank, incluindo a extração de dados de vendas, conversão de valores para BRL, validação e geração de relatórios individuais em PDF para cada vendedor.",
+  "MainFile": "Main.xaml"
+}

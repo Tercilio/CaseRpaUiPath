@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Baixe o EXCEL(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TdWz7VfAYECFxW8iquv2pQ",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/TdWz7VfAYECFxW8iquv2pQ",
+  "ParentRef": "988b6tt9lkaKI25kDjoeaA/wOpBHWtjHUW63qIPWMFi-g",
+  "Created": "2025-09-14T11:21:39.3335575Z",
+  "Updated": "2025-09-14T11:21:39.3335575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

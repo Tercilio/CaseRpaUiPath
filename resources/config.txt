@@ -1,0 +1,18 @@
+[Paths Relativos raiz do projeto]
+sales_list_pdf_path = resources\Sales List.pdf
+sales_report_template_path = resources\Sales Report Template.xlsx
+vendor_list_excel_path = resources\Vendor List.xlsx
+output_path = resources\outputs           
+logPath = resources\log.txt
+sales_report_output_path = resources\resultados 
+
+[Email]
+email_from = seuemail@dominio.com
+email_to = destinatario@dominio.com
+email_password = sua_senha
+smtp_server = smtp-mail.dominio.com
+smtp_port = 587
+
+[API]
+exchange_rate_api = http://economia.awesomeapi.com.br/json/last/USD-BRL
+

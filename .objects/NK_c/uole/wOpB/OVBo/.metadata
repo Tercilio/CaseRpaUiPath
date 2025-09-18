@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Uma folha",
+  "Type": "Element",
+  "Id": "OVBoatRsi0-_QfyAPtctPw",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/OVBoatRsi0-_QfyAPtctPw",
+  "ParentRef": "988b6tt9lkaKI25kDjoeaA/wOpBHWtjHUW63qIPWMFi-g",
+  "Created": "2025-09-14T11:08:26.4648641Z",
+  "Updated": "2025-09-14T11:08:26.4648641Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

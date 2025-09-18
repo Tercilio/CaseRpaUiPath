@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Transfira dados de PDF para EXCEL. PDF",
+  "Type": "Screen",
+  "Id": "lYF86Ygdp0yXQizsXn760Q",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/lYF86Ygdp0yXQizsXn760Q",
+  "ParentRef": "988b6tt9lkaKI25kDjoeaA/kclUdCjRl0az7vp_U9-V-Q",
+  "Created": "2025-09-14T02:22:56.6616088Z",
+  "Updated": "2025-09-14T02:22:56.6616088Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

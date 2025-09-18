@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BINZIBO5eUWnxgGYblESgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pt/pdf_para_excel" CVScreenId="661cce34-a5f8-4b42-9238-619d431b3c0d" CvElementArea="1406, 896, 492, 106" CvType="Button" DesignTimeRectangle="1409, 899, 490, 100" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='processTask' tag='BUTTON' type='' class='btn btn--process btn--red pdfoffice' aaname='Converta para EXCEL ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Converta para EXCEL' /&gt;" Guid="e86f72fd-0bff-4e3a-8670-2a59d55baaeb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Transfira dados de PDF para EXCEL. PDF para XLS online' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="661cce34-a5f8-4b42-9238-619d431b3c0d" CvElementArea="1406, 896, 492, 106" CvTextArea="1485, 936, 306, 27" CvTextArgument="Converta para EXCEL" CvType="Button" DesignTimeRectangle="1487, 914, 304, 70" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='processTaskTextBtn' tag='SPAN' type='' class='' aaname='Converta para EXCEL' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Converta para EXCEL' /&gt;" Guid="37f0555d-f5f6-408c-b669-26db669d2a1e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ca486a2fb64dd769ef60c3a7acb76d0c.png" xmlns="">0A3UT_np2UUidVPwdRSH5ng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

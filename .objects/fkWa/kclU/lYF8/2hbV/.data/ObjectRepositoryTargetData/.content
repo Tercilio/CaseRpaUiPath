@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wfHHq7UOb0eSBhRK7-oPcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ilovepdf.com/pt/pdf_para_excel" CVScreenId="c6c82319-4d1a-4096-834a-7f2429954471" CvElementArea="739, 414, 456, 108" CvTextArea="800, 454, 336, 28" CvTextArgument="Selecionar arquivo PDF" CvType="Button" DesignTimeRectangle="743, 417, 452, 100" ElementType="Text" FullSelectorArgument="&lt;webctrl id='pickfiles' tag='A' /&gt;" Guid="e66def9f-b919-460c-b676-cf385ef13924" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Transfira dados de PDF para EXCEL. PDF para XLS online' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd275e64b23d76210725e368fc965c9f.png" xmlns="">0dUs1a74OIEiX-OXey79XZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

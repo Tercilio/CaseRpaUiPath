@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Carregue seu ficheiro e…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OZzOZAkwJUqY64frteh6Jw",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/OZzOZAkwJUqY64frteh6Jw",
+  "ParentRef": "988b6tt9lkaKI25kDjoeaA/wOpBHWtjHUW63qIPWMFi-g",
+  "Created": "2025-09-14T11:01:03.4141803Z",
+  "Updated": "2025-09-14T11:01:03.4141803Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Converta para EXCEL(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "iLb5X4i090OuW4wC0QQCXg",
+  "Reference": "988b6tt9lkaKI25kDjoeaA/iLb5X4i090OuW4wC0QQCXg",
+  "ParentRef": "988b6tt9lkaKI25kDjoeaA/wOpBHWtjHUW63qIPWMFi-g",
+  "Created": "2025-09-14T11:10:56.6990554Z",
+  "Updated": "2025-09-14T11:10:56.6990554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
